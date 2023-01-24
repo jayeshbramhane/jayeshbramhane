@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayeshbramhane
-- 👀 I’m interested in ...web designing/devloper
-- 🌱 I’m currently learning ...HTML,CSS,java script,a
+- 👀 I’m interested in ...web designing/developer
+- 🌱 I’m currently learning ...HTML,CSS,javascript,a
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...jayeshbramhanJB@gmail.com 
 
